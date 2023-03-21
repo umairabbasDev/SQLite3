@@ -1,3 +1,12 @@
+[![SQLite3](https://img.shields.io/badge/SQLite3-blue)](https://www.sqlite.org/index.html)
+[![Python](https://img.shields.io/badge/Python-3-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
+
+[![Issues](https://img.shields.io/github/issues/umairabbasDev/SQLite3)](https://github.com/umairabbasDev/SQLite3/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/umairabbasDev/SQLite3)](https://github.com/umairabbasDev/SQLite3/pulls)
+[![Contributors](https://img.shields.io/github/contributors/umairabbasDev/SQLite3)](https://github.com/umairabbasDev/SQLite3/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/umairabbasDev/SQLite3)](https://github.com/umairabbasDev/SQLite3/commits/master)
+
 # Python SQLite3 Tutorial for Beginners
 
 This tutorial provides a brief introduction to SQLite3 using Python for beginners. SQLite3 is a lightweight, self-contained, open-source, and serverless relational database management system (RDBMS). It is widely used in applications that require a small and efficient database engine. SQLite3 is also the most widely deployed database engine in the world.
